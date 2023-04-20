@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: rgb(163, 8, 163);
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+header h3{
+    display: flex;
+}
+header img{
+    width: 100px;
+    height: 40px;
+}
+#video{
+    display: flex;
+    width: 40vw;
+    padding: 10px;
+}
+div p{
+    width: 40vw;
+}
+#texto{
+    width: 40vw;
+}
