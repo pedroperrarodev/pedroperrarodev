@@ -1,4 +1,4 @@
-<h3 align="left">👋 Olá, eu sou o Pedro Perraro — Desenvolvedor Full Stack</h3>
+<h1 align="left">👋 Olá, eu sou o Pedro Perraro — Desenvolvedor Full Stack</h1>
 
 ###
 
